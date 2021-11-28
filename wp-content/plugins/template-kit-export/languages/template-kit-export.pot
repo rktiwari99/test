@@ -1,0 +1,346 @@
+# Copyright (C) 2021 template-kit-export
+# This file is distributed under the same license as the template-kit-export package.
+msgid ""
+msgstr ""
+"Project-Id-Version: template-kit-export\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Envato <dave.baker@envato.com>\n"
+"Last-Translator: Dave Baker <dave.baker@envato.com>\n"
+"Report-Msgid-Bugs-To: https://envato.com/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/class-template-kit-export-admin.php:125
+msgid "Template Kits"
+msgstr ""
+
+#: admin/class-template-kit-export-admin.php:126
+msgid "Template Kit"
+msgstr ""
+
+#: admin/class-template-kit-export-admin.php:136, admin/class-template-kit-export-admin.php:137
+msgid "Export"
+msgstr ""
+
+#: admin/class-template-kit-export-admin.php:145, admin/class-template-kit-export-admin.php:146, includes/class-template-kit-export-cpt.php:41, includes/class-template-kit-export-cpt.php:43, includes/class-template-kit-export-cpt.php:57
+msgid "Templates"
+msgstr ""
+
+#: admin/class-template-kit-export-health-check.php:53
+msgid "Please ensure your website is publicly accessible (i.e. not localhost). Users will need to access your website to preview any templates and import any images."
+msgstr ""
+
+#: admin/class-template-kit-export-health-check.php:57
+msgid "Please up date WordPress to the latest version."
+msgstr ""
+
+#: admin/class-template-kit-export-health-check.php:59
+msgid "WordPress is up-to-date."
+msgstr ""
+
+#. translators: %s: Plugin Name
+#: admin/class-template-kit-export-health-check.php:69
+msgid "Please update plugin to latest version: %s"
+msgstr ""
+
+#: admin/class-template-kit-export-health-check.php:80
+msgid "Please choose a Page/Site Builder from the available drop down options."
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:499
+msgid "Image Source:"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:503
+msgid "Licensed From Envato Elements"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:504
+msgid "Created Myself"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:505
+msgid "CC0 or equivalent"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:506
+msgid "Unsure (NOT allowed)"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:511
+msgid "Contains Person or Place?"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:515
+msgid "Yes, image contains person or place"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:516
+msgid "No"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:521
+msgid "Source URLs"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-base.php:538, builders/class-template-kit-export-builders-elementor.php:329
+msgid "Include Template in Export ZIP"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:278
+msgid "Template Type:"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:281
+msgid " - Select Template Type - "
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:283
+msgid "Full Page"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:285
+msgid "Single: Page"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:286
+msgid "Single: Home"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:287
+msgid "Single: Post"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:288
+msgid "Single: Product"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:289
+msgid "Single: 404"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:290
+msgid "Single: Landing Page"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:291
+msgid "Archive: Blog"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:292
+msgid "Archive: Product"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:293
+msgid "Archive: Search"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:294
+msgid "Archive: Category"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:298
+msgid "Section / Block"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:300
+msgid "Header"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:301
+msgid "Footer"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:302
+msgid "Popup"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:303
+msgid "Hero"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:304
+msgid "About"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:305
+msgid "FAQ"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:306
+msgid "Contact"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:307
+msgid "Call to Action"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:308
+msgid "Team"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:309
+msgid "Map"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:310
+msgid "Features"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:311
+msgid "Pricing"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:312
+msgid "Testimonial"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:313
+msgid "Product"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:314
+msgid "Services"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:315
+msgid "Stats"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:316
+msgid "Countdown"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:317
+msgid "Portfolio"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:318
+msgid "Gallery"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:319
+msgid "Logo Grid"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:320
+msgid "Clients"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:321
+msgid "Other"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:324
+msgid "Global Kit Styles"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:334
+msgid "Elementor Pro Required"
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:474
+msgid "Please install the \"Elementor\" Plugin to continue."
+msgstr ""
+
+#: builders/class-template-kit-export-builders-elementor.php:478
+msgid "Please ensure the \"Hello Elementor\" theme is installed and active on this site."
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:42
+msgid "Template"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:44
+msgid "Parent Template:"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:45
+msgid "All Templates"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:46
+msgid "View Template"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:47
+msgid "Add New Template"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:48
+msgid "New Template"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:49
+msgid "Edit Template"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:50
+msgid "Update Template"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:51
+msgid "Search Templates"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:52
+msgid "No Templates found"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:53
+msgid "No Templates found in Trash"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:87
+msgid "Template Options"
+msgstr ""
+
+#: includes/class-template-kit-export-cpt.php:149
+msgid "Please configure the Template Kit in the Settings area."
+msgstr ""
+
+#: admin/partials/template-kit-export-install-envato-elements.php:47
+msgid "License + Import photos directly into your Template Kit using the Envato Elements WordPress plugin."
+msgstr ""
+
+#: admin/partials/template-kit-export-install-envato-elements.php:48
+msgid "Install + Activate Plugin"
+msgstr ""
+
+#: admin/partials/template-kit-export-step-1.php:36
+msgid "Choose the Export Kit Type"
+msgstr ""
+
+#: admin/partials/template-kit-export-step-1.php:39, admin/partials/template-kit-export-step-2.php:82
+msgid "Please Select"
+msgstr ""
+
+#: admin/partials/template-kit-export-step-2.php:68
+msgid "Kit Name"
+msgstr ""
+
+#: admin/partials/template-kit-export-step-2.php:78
+msgid "Page/Site Builder"
+msgstr ""
+
+#: admin/partials/template-kit-export-step-2.php:98
+msgid "Version Number"
+msgstr ""
+
+#: admin/partials/template-kit-export-step-2.php:107
+msgid "Plugin Dependencies"
+msgstr ""
+
+#: admin/partials/template-kit-export-step-2.php:208
+msgid "Sorry this plugin can not be included as a dependency. Elementor Kits are only compatible with Elementor, Elementor Pro and WooCommerce plugins. Please generate a Template Kit "
+msgstr ""
+
+#: admin/partials/template-kit-export-step-2.php:210
+msgid "Sorry this plugin can not be included as a dependency. Please use plugins from WordPress.org as per the Template Kit guidelines."
+msgstr ""
